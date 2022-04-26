@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\bin\Debug\Ekz2.exe.config
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\bin\Debug\Ekz2.exe
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\bin\Debug\Ekz2.pdb
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.g.resources
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.exe
+C:\Users\Администратор\source\repos\Ekz2\Ekz2\obj\Debug\Ekz2.pdb
